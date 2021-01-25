@@ -286,7 +286,7 @@ int copy_next_states_if_new (int state_index, State* s_list, int index, int act_
 								}
 							}
 							if(cont1==0){
-								//one atom is similar
+								//atom is similar
 								equal=1;
 							}
 							else{
